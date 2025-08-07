@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Sales Analysis (SQL Portfolio Project)
+# E-Commerce Sales Analysis (SQL Portfolio Project)
 
-## 📌 Overview
+## Overview
 This project explores a synthetic e-commerce company's sales data using SQL.  
 The goal is to extract actionable business insights related to revenue, customer trends, and product performance.
 
@@ -8,7 +8,7 @@ I created and queried three realistic datasets using SQL: `customers`, `orders`,
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - SQL Joins and Aggregations
 - Filtering, Sorting, and Grouping Data
 - Calculating KPIs: Revenue, Order Counts, Average Value
@@ -17,7 +17,7 @@ I created and queried three realistic datasets using SQL: `customers`, `orders`,
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 
 | Table      | Description                         |
 |------------|-------------------------------------|
@@ -29,7 +29,7 @@ All data is synthetic for project purposes.
 
 ---
 
-## ❓ Key Business Questions Answered
+## Key Business Questions Answered
 
 1. **Which region generates the most revenue?**
 2. **What is the most profitable product category?**
@@ -38,12 +38,12 @@ All data is synthetic for project purposes.
 5. **What’s the average order value per region?**
 
 ---
-## 🔍 Key Findings
+## Key Findings
 - East region generates 40% more revenue than other regions
 - Electronics category has highest profit margins at 35%
 - 72.5% of customers use discounts, suggesting price sensitivity
 - Top 3 customers account for 30% of total revenue
-## 📁 Project Structure
+## Project Structure
 
 ecommerce-sales-analysis/
 │
@@ -63,20 +63,21 @@ ecommerce-sales-analysis/
 └── README.md # This file
 
 ---
-## 🚀 How to Use
+## How to Use
 
 You can run the project in [DB Fiddle (SQLite)](https://www.db-fiddle.com/) using the `schema.sql` file, or locally with SQLite or PostgreSQL.
 
 ---
 
-## 🙋 About Me
+## About Me
 
 I'm a manufacturing employee at Crown Equipment transitioning into data analysis and business intelligence.  
 This project demonstrates my ability to work with SQL and extract meaningful insights from data.
 
 ---
 
-## 🔗 Connect
+##  Connect
 
-- 💼 [LinkedIn (my Link)](https://www.linkedin.com/in/ryan-bayman-8361bb205/)
-- 📧 rbayman97@gmail.com
+- 💼[LinkedIn (my Link)](https://www.linkedin.com/in/ryan-bayman-8361bb205/)
+
+-  rbayman97@gmail.com
